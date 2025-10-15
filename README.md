@@ -4,6 +4,4 @@
 1. `uv add python-dotenv`
 1. `uv add langchain`
 1. `uv add langchain-openai`
-
-
-`uv add python-dotenv`
+1. `uv add python-dotenv black isort` 
